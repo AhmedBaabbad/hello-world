@@ -24,7 +24,7 @@
   </div>
 
   <div class="container signin">
-    <p>New user? <a href="registration.jsp">Create an account</a>.</p>
+    <p>New user? <a href="index.jsp">Create an account</a>.</p>
   </div>
 </form>
 
